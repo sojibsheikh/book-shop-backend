@@ -1,0 +1,27 @@
+{
+  "name": "book-shop-backend",
+  "version": "1.0.0",
+  "description": "book shop backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojibsheikh/book-shop-backend.git"
+  },
+  "keywords": [
+    "book-shop",
+    "mern",
+    "book-shop",
+    "book-shop",
+    "rest",
+    "api"
+  ],
+  "author": "Sojib SR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojibsheikh/book-shop-backend/issues"
+  },
+  "homepage": "https://github.com/sojibsheikh/book-shop-backend#readme"
+}
