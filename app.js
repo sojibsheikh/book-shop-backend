@@ -10,6 +10,8 @@ const port = process.env.PORT || 4000;
 //middleware
 app.use(cors)
 app.use(morgan('dev'));
+app.use(express.static('public'))
+app.use('/api/user',userRoutes)
 
 const url = process.env.DB_URL;
 mongoose.connect(url,{useNewUrlParser: true,
